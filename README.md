@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Cavidan Ashurlu and I'm a Backend Developer, from Azerbaijan</h2>
+<h2 align="left">Hi 👋! My name is Cavidan Ashurlu and I'm a SOC Analysis, from Azerbaijan</h2>
 
 ###
 
